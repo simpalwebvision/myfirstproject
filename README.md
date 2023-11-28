@@ -15,10 +15,4 @@ https://www.youtube.com/channel/UCOlGME-IYrqmn6eVaTFXgxw
 Subscribe to the YouTube channel to learn about the latest technologies that will help you learn new things, Stay tuned for regular updates.
 ________________________________________________________________________
 
-## Stay Connected with me !
-###### ✔ Subscribe to my Channel : - https://www.youtube.com/SnippetCoder
-###### ✔ Instagram: https://www.instagram.com/SnippetCoder
-###### ✔ Facebook:  https://facebook.com/SnippetCoder
-###### ✔ Twitter:   https://twitter.com/SnippetCoder
-###### ✔ Telegram:  https://t.me/SnippetCoder
-###### ✔ Github:    https://github.com/SnippetCoders/
+
