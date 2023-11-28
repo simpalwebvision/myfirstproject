@@ -7,8 +7,7 @@ This snippet code is regarding how to make Dashboard Screen with Login/Logout Fu
 Watch Video :
 https://www.youtube.com/channel/UCOlGME-IYrqmn6eVaTFXgxw
 
-If you like my work , you can support me by donating through PayPal:
-http://www.paypal.me/iSharpeners
+
 
 #Flutter #LoginUI #HTTPPostRequest #SnippetCoder #FlutterTutorial #Dart #Code
 
