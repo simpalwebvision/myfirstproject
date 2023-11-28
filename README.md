@@ -5,7 +5,7 @@
 This snippet code is regarding how to make Dashboard Screen with Login/Logout Functionality using HTTP Get Request in Flutter Application, with just few lines of code.
 
 Watch Video :
-https://youtu.be/_Kw4BfNX1-4
+https://www.youtube.com/channel/UCOlGME-IYrqmn6eVaTFXgxw
 
 If you like my work , you can support me by donating through PayPal:
 http://www.paypal.me/iSharpeners
